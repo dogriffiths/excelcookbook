@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Title>Latest Product data</Title>
+        <record>
+            <Name>Tea</Name>
+            <Desc>Served hot</Desc>
+        </record>
+        <record>
+            <Name>Coffee</Name>
+            <Desc>As dark as a moonless night</Desc>
+        </record>
+</data-set>
